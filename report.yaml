@@ -7,4 +7,4 @@ grade:
   - subject: English
     grade: B
   - subject: Science
-  - grade: B
+    grade: B+
