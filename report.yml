@@ -1,0 +1,10 @@
+name: rajesh
+age: 30
+city: New York
+grade:
+  - subject: Math
+    grade: D
+  - subject: English
+    grade: D
+  - subject: Science
+  - grade: D +
