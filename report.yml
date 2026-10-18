@@ -3,8 +3,16 @@ age: 30
 city: New York
 grade:
   - subject: Math
+<<<<<<< HEAD
     grade: B
   - subject: English
     grade: B
   - subject: Science
     grade: B+
+=======
+    grade: D
+  - subject: English
+    grade: D
+  - subject: Science
+  - grade: D +
+>>>>>>> dev
